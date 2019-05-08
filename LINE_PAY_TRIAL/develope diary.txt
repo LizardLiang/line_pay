@@ -1,0 +1,12 @@
+Line Pay SandBox :
+    	ID : test_2019041078820@line.pay 
+    PW : test_2019041078820
+
+Channel Key:
+    1565636751
+    ee5be7577106c99b79a12c657b32b112
+    
+使用QT 的 Network 需要先下載 OpenSSL 然後把資料夾加入到環境變數中
+
+自動付款:
+    /payments/preapprovedPay/{regKey}/payment
